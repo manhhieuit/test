@@ -1,3 +1,1 @@
-Đến cả con khỉ cũng hiểu được lệnh Git.
-Đăng ký thay đổi add ở index.
-Ghi trạng thái của commit index.
+111111111
